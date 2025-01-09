@@ -1,0 +1,51 @@
+{
+  "home": "Início",
+  "projects": "Projetos",
+  "contact": "Contato",
+  "language": "Idioma",
+  "lightMode": "",
+  "darkMode": "",
+  "helloImMarcio": "Oi, sou o Marcio.",
+  "fullStackDeveloper": "Desenvolvedor Full-stack",
+  "downloadCV": "Baixar Currículo",
+  "aboutMe": {
+    "intro": "Comecei a desenvolver como hobby, e ver o que criei após horas de trabalho é muito gratificante. Atualmente, trabalho na DXC Technology como Analista de Sistemas, onde tenho a oportunidade de aplicar minhas habilidades de desenvolvimento. Já participei de projetos como desenvolvedor, incluindo a criação de shell scripts e automações, e estou sempre em busca de novos desafios. Sou uma pessoa confiável e curiosa, comprometido em melhorar constantemente minhas habilidades e meu conhecimento em tecnologias.",
+    "skills": {
+      "technologies": "Tecnologias que eu uso: HTML, CSS, JavaScript, TypeScript, React, Vue.",
+      "devTools": "Ferramentas de Desenvolvimento:",
+      "toolsList": [
+        {
+          "name": "Bootstrap",
+          "proficiency": "80%"
+        },
+        {
+          "name": "TailWind",
+          "proficiency": "75%"
+        },
+        {
+          "name": "Bulma",
+          "proficiency": "70%"
+        },
+        {
+          "name": "Vercel",
+          "proficiency": "70%"
+        },
+        {
+          "name": "React",
+          "proficiency": "100%"
+        },
+        {
+          "name": "Nest",
+          "proficiency": "80%"
+        },
+        {
+          "name": "Express",
+          "proficiency": "100%"
+        }
+      ]
+    }
+  },
+  "alwaysSeekingMore": "Sempre Buscando Mais",
+  "viewProject": "Ver Projeto",
+  "date": "Data"
+}

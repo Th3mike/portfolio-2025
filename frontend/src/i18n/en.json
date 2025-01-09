@@ -1,0 +1,51 @@
+{
+  "home": "Home",
+  "projects": "Projects",
+  "contact": "Contact",
+  "language": "Language",
+  "lightMode": "",
+  "darkMode": "",
+  "helloImMarcio": "Hi, I'm Marcio.",
+  "fullStackDeveloper": "Full-stack Developer",
+  "downloadCV": "Download CV",
+  "aboutMe": {
+    "intro": "I started developing as a hobby, you see what you created after hours of work is very rewarding. I don't know how to describe. But come on, I currently work at DXC Technology as a Systems Analyst. I have participated in projects as a developer, working on shell scripts and other types of scripts.",
+    "skills": {
+      "technologies": "Technologies I use: HTML, CSS, JavaScript, TypeScript, React, Vue, Node.js, NestJS, Express.",
+      "devTools": "Dev Tools:",
+      "toolsList": [
+        {
+          "name": "Bootstrap",
+          "proficiency": "80%"
+        },
+        {
+          "name": "TailWind",
+          "proficiency": "75%"
+        },
+        {
+          "name": "Bulma",
+          "proficiency": "70%"
+        },
+        {
+          "name": "Vercel",
+          "proficiency": "70%"
+        },
+        {
+          "name": "React",
+          "proficiency": "100%"
+        },
+        {
+          "name": "Nest",
+          "proficiency": "80%"
+        },
+        {
+          "name": "Express",
+          "proficiency": "100%"
+        }
+      ]
+    }
+  },
+  "alwaysSeekingMore": "Always Seeking More",
+  "viewProject": "View Project",
+  "date": "Date"
+}
